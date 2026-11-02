@@ -1,0 +1,13 @@
+NovaRetail Portfolio Dataset - Validation
+
+customers: 250
+stores: 8
+products: 40
+orders: 800
+order_items: 1777
+
+Order status distribution:
+completed: 700
+cancelled: 57
+returned: 28
+pending: 15
